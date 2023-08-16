@@ -5,7 +5,7 @@ This project demonstrates a simple [OML](http://www.opencaesar.io/oml/) model fr
 ## Clone
 ```
   git clone https://github.com/opencaesar/pizza-example.git
-  cd sysml2
+  cd pizza-example
 ```
 
 ## Clean
