@@ -1,6 +1,6 @@
 # Pizza Example
 
-This project demonstrates a simple [OML](http://www.opencaesar.io/oml/) model from the pizza domain.
+This project demonstrates a simple [OML](http://www.opencaesar.io/oml/) model from the pizza domain. For details, follow this [tutorial](http://www.opencaesar.io/oml-tutorials/#tutorial1).
 
 ## Clone
 ```
